@@ -16,7 +16,7 @@
 
 ## Preguntas de examen
 
--Cual de las sig opciones esta optimizada para almacenar grandes cantidades de datos no estructurados, como video e imagenes?
+- Cual de las sig opciones esta optimizada para almacenar grandes cantidades de datos no estructurados, como video e imagenes?
   - Archivos (files)
   - Colas (Queues)
   - Blobs ✅
